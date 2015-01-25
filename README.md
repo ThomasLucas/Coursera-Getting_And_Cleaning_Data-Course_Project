@@ -1,4 +1,4 @@
-# Coursera - Getting And Cleaning Data - Course Project
+# Coursera - Getting And Cleaning Data - Course Project - README
 Thomas LUCAS
 
 Repo for the Coursera Getting and Cleaning Data Course Project
@@ -22,7 +22,7 @@ Once the first part is done, to run the code, you just need to open R or RStudio
 
 At the end a new text file called "tidyDataSet.txt" will be produced in your working directory.
 
-** NB: ** for the last step, the external package *plyr* is necessary. You will have to install it using *install.packages* if the step *library(plyr)* fails on line 77.
+**NB** for the last step, the external package *plyr* is necessary. You will have to install it using *install.packages* if the step *library(plyr)* fails on line 77.
 
 # Additional Information
 
